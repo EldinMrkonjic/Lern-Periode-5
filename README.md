@@ -14,10 +14,10 @@
 
 ## 30.4.2024
 
-- [ ] VS Code Herunterladen
-- [ ] Basis des Codes schreiben
-- [ ] Passende Übertitel Sdchreiben
-- [ ] Evtl. Erstes Bild einfügen
+- [x] VS Code Herunterladen
+- [x] Basis des Codes schreiben
+- [x] Passende Übertitel Sdchreiben
+- [x] Evtl. Erstes Bild einfügen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
