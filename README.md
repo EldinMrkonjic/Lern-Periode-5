@@ -4,7 +4,7 @@
 
 ## Grob-Planung
 
-1. Im momennt stehe ich mit meinen Noten der Kanti in einem Bereich der ganz okay ist, jedoch muss ich zwingend besser in Mathe werden. Die Noten in der BBB sind sehr gut und stehe auf einem 5.5 Schnitt. Die Module zu SQL finde ich besonders toll da es mich sehr interessiert.
+1. Im Moment stehe ich mit meinen Noten der Kanti in einem Bereich der ganz okay ist, jedoch muss ich zwingend besser in Mathe werden. Die Noten in der BBB sind sehr gut und stehe auf einem 5.5 Schnitt. Die Module zu SQL finde ich besonders toll da es mich sehr interessiert.
 2. Am Ende der LP4 habe ich mir wie auch in meine VBV vorgenommen das ich mir deutlich mehr mühe beim Planen geben muss bzw wie lange ein Arbeitspaket wirklich dauern wird. Es ist bei mir durch diverse zwischenfälle leider passiert das das Projekt den Bach hinunter ist.
 3. Ich finde, ein geeignetes Projekt für diese LP das mich auch Interessiert ist eine ansprechende Website über Motorräder zu machen.
 
@@ -19,6 +19,13 @@
 - [x] Passende Übertitel Sdchreiben
 - [x] Evtl. Erstes Bild einfügen
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich richtig angefangen meine Website zu gestalten. Ich habe dazu viel W3 schools und ein Youtube turtorial verwendet. Ich habe mich vor allem darauf fokussiert ein ansprechendes design zu gestallten und das es möglich ist zu scrollen um auf die nächste Seite zu kommen also praktisch wie auf einer richtigen Website.
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+
+## 07.5.2024
+
+- [ ] smothes scrolling einbauen
+- [ ] Dropdown Menu einfügen
+- [ ] Anklickbare Felder machen
+- [ ] Animationen beim scrollen
