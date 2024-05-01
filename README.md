@@ -21,7 +21,7 @@
 
 ✍️ Heute habe ich richtig angefangen meine Website zu gestalten. Ich habe dazu viel W3 schools und ein Youtube turtorial verwendet. Ich habe mich vor allem darauf fokussiert ein ansprechendes design zu gestallten und das es möglich ist zu scrollen um auf die nächste Seite zu kommen also praktisch wie auf einer richtigen Website.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen Anpassung am 01.05.2024: Ich habe am Dienstagabend noch einwenig weiter an meiner Website programmiert und jetzt die ganze folder als Zip hochgeladen.
+☝️ Anpassung am 01.05.2024: Ich habe am Dienstagabend noch einwenig weiter an meiner Website programmiert und jetzt die ganze folder als Zip hochgeladen.
 
 ## 07.5.2024
 
