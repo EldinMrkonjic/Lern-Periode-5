@@ -25,6 +25,14 @@
 
 ## 07.5.2024
 
+- [x] Am Beitrag für das Modul 106 weiterarbeiten
+
+
+✍️ Heute habe ich an meiner Doku für das Modul 106 weitergearbeitet. Diese Schreibe ich auf der Platform Mahara. Schwierigkeiten gibt es dabei nur sehr wenige da ich alle auftröge gelöst und gut Dokumentiert habe. Dies ermöglicht es mir auch relativ schnell voranzukommen. (42 Wörter)
+
+
+## 14.5.2024
+
 - [ ] smothes scrolling einbauen
 - [ ] Dropdown Menu einfügen
 - [ ] Anklickbare Felder machen
