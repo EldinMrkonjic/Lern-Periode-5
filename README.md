@@ -33,7 +33,21 @@
 
 ## 14.5.2024
 
-- [ ] smothes scrolling einbauen
+- [x] Für SWIR Test gelernt
+  
+✍️ Heute habe ich für einen sehr wichtigen und grossen Test gelernt, da ich noch einige wissenslücken hatte die im Test fatal gewesen wären. Es war auch dringend nötig da ich zwingend eine Bessere Note in SWIR brauche
+
+## 21.05.2024
+
+- [x] smothes scrolling einbauen
 - [ ] Dropdown Menu einfügen
-- [ ] Anklickbare Felder machen
+- [x] Anklickbare Felder machen
+- [ ] Animationen beim scrollen
+
+✍️ Heute habe ich für meine Website smothes scrollen eingebaut und dazu auch anklickbare Felder. Leider konnte ich noch keine Dropdow-Menu einbauen und auch keine Animation beim scrollen da mir die Zeit nicht gereicht hat jedoch werde ich das beim nächsten mal nachholen.
+
+
+## 21.05.2024
+
+- [ ] Dropdown Menu einfügen
 - [ ] Animationen beim scrollen
