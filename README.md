@@ -47,7 +47,7 @@
 ✍️ Heute habe ich für meine Website smothes scrollen eingebaut und dazu auch anklickbare Felder. Leider konnte ich noch keine Dropdow-Menu einbauen und auch keine Animation beim scrollen da mir die Zeit nicht gereicht hat jedoch werde ich das beim nächsten mal nachholen.
 
 
-## 21.05.2024
+## 28.05.2024
 
 - [ ] Dropdown Menu einfügen
 - [ ] Animationen beim scrollen
