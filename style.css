@@ -101,7 +101,7 @@
     margin: 20px 10px;
     border-radius: 25px;
     font-weight: bold;
-    border: 2px solid #009688;
+    border: 2px solid #0e4e83;
     background: transparent;
     color: #fff;
     cursor: pointer;
@@ -116,7 +116,7 @@
    
     font-family: sans-serif;
 
-    background: linear-gradient(to left, transparent 50%, #009688 50%) right;
+    background: linear-gradient(to left, transparent 50%, #0e4e83 50%) right;
     background-size: 200%;
     transition: .5s ease-out;
   
@@ -126,7 +126,7 @@
  .btn:hover{
    
     background-position: left;
-    border: 2px solid #009688;
+    border: 2px solid #0e4e83;
 }
 
 .button-position{
@@ -137,70 +137,4 @@ align-items: center;
 flex-direction: column;
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.btn{
-
-   
-    display:block;
-    width: 200px;
-    padding: 15px 0;
-    text-align: center;
-    margin: 20px 10px;
-    border-radius: 25px;
-    font-weight: bold;
-    border: 2px solid #009688;
-    background: transparent;
-    color: #fff;
-    cursor: pointer;
-    
-   
-    text-decoration: none;
-    font-size: 13.3333px;
-    
-    height: 15px;
-    
-    
-   
-    font-family: sans-serif;
-
-    background: linear-gradient(to left, transparent 50%, #009688 50%) right;
-    background-size: 200%;
-    transition: .5s ease-out;
-  
-}
-
-
- .btn:hover{
-   
-    background-position: left;
-    border: 2px solid #009688;
-}
-
-.button-position{
-height: 10px;
-width: 100%;
-display: flex;
-align-items: center;
-flex-direction: column;
-
-}
-
 
